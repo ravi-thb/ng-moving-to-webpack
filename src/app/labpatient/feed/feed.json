@@ -1,0 +1,158 @@
+{
+"feeds": [
+{ 
+"_id": "574ac03cc8fb0832ac595d6a",
+"Title": "Health & Safety - Week7",
+"SenderCode": "THB",
+"LogoUrl": "https://s3-ap-southeast-1.amazonaws.com/healthylabs/website/mainpage/logosmall.png",
+"BodyImageUrl": "https://thehealthybillion.com/sharing/feed/YourPregnancy/YourPregnancyHealthSafetyWeek7.jpg",
+"Desc": "At this stage your doctor would have prescribed you some screening tests. If you haven't done it yet, schedule your medical diagnostics screening now",
+"SeeMoreUrl": "",
+"SeeMoreText": "Screening tests give you a rough percentage chance of your baby having an abnormality, based on a number of factors; they cannot give you any definite answers, but they can alert you to the possibility of problems in case you want to undergo diagnostic tests (the ones that can give you categorical answers). Now's a good time to do some research about antenatal testing and your options. No one has to agree to have any tests in pregnancy, but some mums-to-be find it puts their mind at rest to have some of the more routine tests - or that it helps to give them thinking time if the result is not what they were hoping for. In addition to screening tests, you'll also have your blood pressure and urine checked at each antenatal appointment. This is to test for the onset of potential problems such as gestational (pregnancy) diabetesand pre-eclampsia.",
+"PublishDateTime": "2016-05-29T15:41:08Z",
+"PublishDateTimeId": "20160529154108",
+"Groups": [
+"YourPregnancy"
+],
+"Users": "",
+"PublishDateTimeString": "Sunday, May 29th 2016"
+},
+{
+"_id": "574ac6d5c8fb0832ac595d81",
+"Title": "Anemia during pregnancy",
+"SenderCode": "THB",
+"LogoUrl": "https://s3-ap-southeast-1.amazonaws.com/healthylabs/website/mainpage/logosmall.png",
+"BodyImageUrl": "https://thehealthybillion.com/sharing/feed/GeneralPregnancyComplications/Anemiaduringpregnancy.jpg",
+"Desc": "Anemia during pregnancy can make you feel weak and tired. Know the risk factors, symptoms and what you can do to avoid it.",
+"SeeMoreUrl": "",
+"SeeMoreText": "If you're pregnant, you're at an increased risk of iron deficiency anemia, a condition in which you don't have enough healthy red blood cells to carry adequate oxygen to your tissues. Understand why anemia during pregnancy occurs and what you can do about it. What causes anemia during pregnancy? Your body uses iron to make hemoglobin, a protein in the red blood cells that carries oxygen to your tissues. During pregnancy, your blood volume expands to accommodate changes in your body and help your baby make his or her entire blood supply — doubling your need for iron. If you don't have enough iron stores or get enough iron during pregnancy, you could develop iron deficiency anemia. How does anemia during pregnancy affect the baby? Iron deficiency anemia during pregnancy might increase the risk of a preterm delivery or a low birth weight baby. What are the risk factors for anemia during pregnancy? You are at increased risk of developing anemia during pregnancy if you: Have two or more closely spaced pregnancies Are pregnant with more than one baby Are vomiting frequently due to morning sickness Don't consume enough iron Have a heavy pre-pregnancy menstrual flow",
+"PublishDateTime": "2016-05-28T16:09:17Z",
+"PublishDateTimeId": "20160529160917",
+"Groups": [
+"YourPregnancy"
+],
+"Users": "",
+"LastModified": "2016-05-31T02:53:20.948Z",
+"PublishDateTimeString": "Saturday, May 28th 2016"
+},
+{
+"_id": "574ac628c8fb0832ac595d7e",
+"Title": "Gestational diabetes - Breastfeeding",
+"SenderCode": "THB",
+"LogoUrl": "https://s3-ap-southeast-1.amazonaws.com/healthylabs/website/mainpage/logosmall.png",
+"BodyImageUrl": "https://thehealthybillion.com/sharing/feed/GestationalDiabetes/Ihavegestationaldiabeteswillistillbeabletobreastfeedmybaby.jpg",
+"Desc": "You can safely breastfeed your baby. Your blood sugar levels will quickly return to normal after your baby's birth, and won't affect breastfeeding. ",
+"SeeMoreUrl": "",
+"SeeMoreText": "Breastfeeding has important health benefits for both you and your baby. Your doctor will encourage you to breastfeed your baby as soon as possible, ideally within 30 minutes of her birth. Aim to feed your baby every two to three hours for the first day. Breastmilk will help to settle down your baby’s blood sugar levels, and will give her a head start on a healthy life. Gestational diabetes can sometimes mean babies need extra treatment after they are born. If your baby has been affected by too much blood sugar during your pregnancy, she may have problems such as low blood sugar (hypoglycaemia) and jaundice. The medical staff will keep a close eye on your baby after she's born. They will monitor your baby's blood sugar levels by taking a small sample of blood from her heel for testing. If your baby has low blood sugar levels, she will be treated in the neonatal unit. The treatment may involve her being given a sugar solution through a drip. If your baby does have to spend time on a drip, it may be more difficult to breastfeed her. You can keep your milk flowing by: expressing milk frequently; holding your baby close, with skin-to-skin contact. Breastfeeding may actually have a role to play in helping to even out your blood sugar levels too, thanks to the hormones your body makes to produce milk. All women who breastfeed may lower their risk of ovarian cancer, some types of breast cancer, and type 2 diabetes. Also, breastfeeding for longer than six months may help you reduce your weight.",
+"PublishDateTime": "2016-05-28T16:06:24Z",
+"PublishDateTimeId": "20160529160624",
+"Groups": [
+"GestationalDiabetes"
+],
+"Users": "",
+"PublishDateTimeString": "Saturday, May 28th 2016"
+},
+{
+"_id": "574ac92dc8fb0832ac595d87",
+"Title": "Hypothyroidism diagnosed in pregnancy?",
+"SenderCode": "THB",
+"LogoUrl": "https://s3-ap-southeast-1.amazonaws.com/healthylabs/website/mainpage/logosmall.png",
+"BodyImageUrl": "https://thehealthybillion.com/sharing/feed/ThroidcomplicationsinPregnancy/Howishypothyroidismdiagnosedinpregnancy.PNG",
+"Desc": "A careful review of symptoms and measurement of TSH and T4 levels by a medical practitioner helps in diagnosing hypothyroidism in pregnancy. ",
+"SeeMoreUrl": "",
+"SeeMoreText": "Common symptoms are extreme fatigue, intolerance to cold, constipation, muscle cramps, and problems with memory. However, since there are pregnancy-related changes in thyroid function, a careful interpretation of the test results by a medical practitioner is mandatory.",
+"PublishDateTime": "2016-05-27T16:19:17Z",
+"PublishDateTimeId": "20160529161917",
+"Groups": [
+"ThyroidinPregnancy"
+],
+"Users": "",
+"PublishDateTimeString": "Friday, May 27th 2016"
+},
+{
+"_id": "574abfe0c8fb0832ac595d67",
+"Title": "Food & Nutrition - Week7",
+"SenderCode": "THB",
+"LogoUrl": "https://s3-ap-southeast-1.amazonaws.com/healthylabs/website/mainpage/logosmall.png",
+"BodyImageUrl": "https://thehealthybillion.com/sharing/feed/YourPregnancy/YourPregnancyFoodNutritionWeek7.jpg",
+"Desc": "Research has suggested that increasing intake of dietary omega-3 fatty acids may have a number of health benefits. And babies whose diets include an abundance of essential fats seem to have an edge in terms of early development. Now new research shows that the same is true for infants born to mothers whose diets contain plenty of this essential fatty acid.",
+"SeeMoreUrl": "",
+"SeeMoreText": "Omega-3 fatty acids are essential and can only be obtained from the diet. The requirements during pregnancy have not been established, but likely exceed that of a nonpregnant state. Omega-3 fatty acids are critical for fetal neurodevelopment and may be important for the timing of gestation and birth weight as well. Most pregnant women likely do not get enough omega-3 fatty acids because the major dietary source, seafood, is restricted to 2 servings a week. For pregnant women to obtain adequate omega-3 fatty acids, a variety of sources should be consumed: vegetable oils, 2 low-mercury fish servings a week, and supplements (fish oil or algae-based docosahexaenoic acid).",
+"PublishDateTime": "2016-05-26T15:39:36Z",
+"PublishDateTimeId": "20160529153936",
+"Groups": [
+"YourPregnancy"
+],
+"Users": "",
+"PublishDateTimeString": "Thursday, May 26th 2016"
+},
+{
+"_id": "574ac53cc8fb0832ac595d7b",
+"Title": "Gestational diabetes - BabyCare",
+"SenderCode": "THB",
+"LogoUrl": "https://s3-ap-southeast-1.amazonaws.com/healthylabs/website/mainpage/logosmall.png",
+"BodyImageUrl": "https://thehealthybillion.com/sharing/feed/GestationalDiabetes/Ihavegestationaldiabetes.Will%20mybabybeOK.jpg",
+"Desc": "There is a good chance that your baby will be fine. Now that you and your doctor know that you have gestational diabetes, you can work together to stabilise your blood sugar levels. This is the most important thing you can do to reduce the chance of your baby having problems.",
+"SeeMoreUrl": "",
+"SeeMoreText": "The trouble with having too much sugar in your blood is that it crosses the placenta to your baby. This means that there is a risk that he could grow large. A big baby may make labour and birth more difficult, and could mean you'll need a caesarean birth. It's important to treat gestational diabetes, because it can cause serious complications if it's not controlled. Sadly, the risk of miscarriage and birth defects goes up. Rarely, uncontrolled gestational diabetes can even lead to a baby being stillborn. The good news is that these worrying risks can be kept very small if you control your blood sugar levels. The aim is to keep the levels as normal as possible during your pregnancy. You may have extra antenatal appointments and extra scans to check how your baby is growing. You may also have regular blood glucose checks while you're in labour. You can stabilise your blood sugar levels by eating a healthy, balanced diet, made up of wholegrain carbohydrates, lean proteins and healthy fats. You should also take regular exercise that's safe in pregnancy, such as walking, swimming or yoga. This will help you to keep your weight gain at a healthy level. If you find you can't control your gestational diabetes through diet and exercise alone, your doctor will prescribe medication or insulin injections. This will help you to keep your blood sugar levels stable. It's also important to keep your sugar levels stable because, if you don't, your baby is likely to feel the effects after he's born. Surprisingly, he may suffer from low blood sugar (hypoglycaemia). Another possible problem is jaundice. Your baby's blood sugar levels may need to be monitored for a while in the neonatal unit. It may seem a long way off now, but being affected by gestational diabetes does mean your baby has a greater risk of putting on weight and developing type 2 diabetes as he grows up. Keep this in mind, and try to teach him the lessons you've learned about healthy eating when the time comes. ",
+"PublishDateTime": "2016-05-25T16:02:28Z",
+"PublishDateTimeId": "20160529160228",
+"Groups": [
+"GestationalDiabetes"
+],
+"Users": "",
+"PublishDateTimeString": "Wednesday, May 25th 2016"
+},
+{
+"_id": "574abdb3c8fb0832ac595d5f",
+"Title": "Your Growing Baby - Week7",
+"SenderCode": "THB",
+"LogoUrl": "https://s3-ap-southeast-1.amazonaws.com/healthylabs/website/mainpage/logosmall.png",
+"BodyImageUrl": "https://thehealthybillion.com/sharing/feed/YourPregnancy/YourPregnancyYourGrowingBabyWeek7.jpg",
+"Desc": "The head is about half the size of the entire embryo. The brain and face are developing rapidly, and nostrils and lenses of the eyes begin to form. Arm buds become paddle-shaped; hands begin to form. Length: about half inch.",
+"SeeMoreUrl": "",
+"SeeMoreText": "Measuring about 9mm from the top of her head to her tailbone (crown-to-rump or 'CRL'), your baby embryo is four times the size she was when she embedded into your uterus after fertilisation. If you were to have a scan now, her movements within the amniotic sac would be detectable already! Lungs, liver and kidneys are all starting to develop.",
+"PublishDateTime": "2016-05-24T15:30:19Z",
+"PublishDateTimeId": "20160529153019",
+"Groups": [
+"YourPregnancy"
+],
+"Users": "",
+"PublishDateTimeString": "Tuesday, May 24th 2016"
+},
+{
+"_id": "574ac753c8fb0832ac595d84",
+"Title": "Thyroid function during pregnancy",
+"SenderCode": "THB",
+"LogoUrl": "https://s3-ap-southeast-1.amazonaws.com/healthylabs/website/mainpage/logosmall.png",
+"BodyImageUrl": "https://thehealthybillion.com/sharing/feed/ThroidcomplicationsinPregnancy/Thyroidfunctionduringpregnancy.jpg",
+"Desc": "The thyroid is a gland located in the neck and produces thyroid hormones thyroxine (T4, also called levothyroxine) and triiodothyronine (T3). Thyroid hormones help the body to make energy, regulate body temperature and help other organs to function. ",
+"SeeMoreUrl": "",
+"SeeMoreText": "There is an increased demand on the thyroid gland during pregnancy. Increased human chorionic gonadotrophin (hCG) and extra oestrogen stimulate the thyroid to produce more of these thyroid hormones. The thyroid gland should function normally in healthy women during pregnancy. However, some women may develop an underactive or overactive thyroid. The thyroid gland may slightly increase in size during pregnancy, although the difference in size is usually not visible. When the thyroid gland does not produce adequate amounts of thyroid hormones, it results in either underactive thyroid or hypothyroidism. Studies estimate that four to six per cent of pregnant women in India have hypothyroidism.Underactive thyroid can either be caused by iodine deficiency or by an auto-immune condition called thyroiditis. Iodine is essential for thyroid function. Pregnant women need about 66 per cent more iodine than non-pregnant women. Iodine is also essential for healthy brain development in the fetus. India is considered to have sufficient iodine levels, mainly because the salt is iodised. However, there are some places where iodine deficiency is common, such as Dehradun district. Hypothyroidism is treated with a hormone-replacement drug levothyroxine, also called thyroxine, L-thyroxine or T4. The drug comes in tablets and has to be taken daily. When the thyroid gland produces an excessive amount of thyroid hormones, the condition is called overactive thyroid or hyperthyroidism. Hyperthyroidism is likely to affect two to three per cent of women during pregnancy. The most common cause of hyperthyroidism is an auto-immune condition called Graves' disease or thyroiditis (the thyroid gland attacking itself). Your doctor will advise medication that is safe for you during pregnancy. Close monitoring of thyroid hormone levels through blood tests is also necessary during pregnancy. Sometimes, very high levels of hCG stimulates the thyroid gland to produce more thyroid hormones. This can cause a temporarily overactive thyroid in the first trimester. This condition is more common in women of South Asian descent. It is associated with extreme morning sickness. This condition is not treated with thyroid drugs because it goes away on its own as hCG levels fall in the second trimester. Hypothyroidism slows the body's metabolic processes, while hyperthyroidism speeds them up. The symptoms of hypothyroidism are often subtle. They begin slowly and you may not realise that you have a problem for many years. The most common symptoms are: tiredness and fatigue, weight gain, constipation, depression, slow movements and thoughts, muscle aches and weakness, muscle cramps, dry and scaly skin, brittle hair and nails, loss of desire for sex, pain, numbness and a tingling sensation in hand and fingers (carpal tunnel syndrome) If you have hyperthyroidism, you may have some of the following symptoms. However, it is unlikely to experience all of them: mood swings such as anxiety, irritability and nervousness, difficulty sleeping, increased appetite, feeling tired all the time, muscle weakness, hyperactivity, diarrhoea, excess fats in stools, making them greasy and difficult to flush, heat intolerance and excess sweating, unexplained or unexpected weight loss, infertility, loss of interest in sex",
+"PublishDateTime": "2016-05-22T16:11:23Z",
+"PublishDateTimeId": "20160529161123",
+"Groups": [
+"ThyroidinPregnancy"
+],
+"Users": "",
+"PublishDateTimeString": "Sunday, May 22nd 2016"
+},
+{
+"_id": "574abe0dc8fb0832ac595d62",
+"Title": "Health & Safety - Week6",
+"SenderCode": "THB",
+"LogoUrl": "https://s3-ap-southeast-1.amazonaws.com/healthylabs/website/mainpage/logosmall.png",
+"BodyImageUrl": "https://thehealthybillion.com/sharing/feed/YourPregnancy/YourPregnancyHealthSafetyWeek6.jpg",
+"Desc": "Avoid smoking, alcohol, drugs (including herbal and skin creams) and drink plenty of water",
+"SeeMoreUrl": "",
+"SeeMoreText": "If your health isn't enough to make you quit smoking, then the health of your baby should be. Smoking during pregnancy affects you and your baby's health before, during, and after your baby is born. The nicotine (the addictive substance in cigarettes), carbon monoxide, and numerous other poisons you inhale from a cigarette are carried through your bloodstream and go directly to your baby. It may be ok to drink alcohol in small quantity but you should consult your doctor. women with certain risk factors should be especially careful about avoiding alcohol while pregnant. You probably should not drink, for example, if you have liver disease, a history of addiction, or are on any medications that may conflict with alcohol, such as antidepressants.",
+"PublishDateTime": "2016-05-21T15:31:49Z",
+"PublishDateTimeId": "20160529153149",
+"Groups": [
+"YourPregnancy"
+],
+"Users": "",
+"PublishDateTimeString": "Saturday, May 21st 2016"
+}
+]
+}

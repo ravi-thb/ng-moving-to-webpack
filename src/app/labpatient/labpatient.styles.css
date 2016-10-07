@@ -1,0 +1,7 @@
+.tabs .indicator {
+            position: absolute;
+            bottom: 0;
+            height: 2px;
+            background-color: #2f4050 !important;
+            will-change: left, right;
+        }

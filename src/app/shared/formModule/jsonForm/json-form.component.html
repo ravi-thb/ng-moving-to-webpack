@@ -1,0 +1,30 @@
+<div class="overflow-hidden">
+    <h2 class="comp-h2" style="background-color: gray;">
+        <span>{{title}}</span>
+    </h2>
+
+    <div *ngIf="form" class="float-left content-margin content-padding" style="padding:20px;padding-top: 0px;">
+        <form [formGroup]="form">
+            <template ngFor let-controlModel [ngForOf]="dynamicFormModel">
+                <dynamic-form-custom-control *ngIf="controlModel" class="form-row" 
+                    [controlGroup]="form" [model]="controlModel">
+                    
+                    <span *ngIf="controlModel.type === 'mybutton'">
+                         
+                        <button type="submit" (click)="submit()" class="btn btn-default">Submit Query</button>
+                    </span>
+                </dynamic-form-custom-control>
+           		 
+
+            </template>
+        </form>
+        <!--<div>
+            json: 
+            {{dynamicFormModel | json}}
+        </div>-->
+    </div>
+    <!--<textarea readonly>
+        formData:
+        {{form.value | json}}
+    </textarea>-->
+</div>

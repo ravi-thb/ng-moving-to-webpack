@@ -1,0 +1,17 @@
+{
+    "items":
+        [
+            {
+                "title": "consultation",
+                 "count": 3
+            },
+            {
+                "title": "pharmacy",
+                 "count": 3
+            }, 
+            {
+                "title": "Diagnostics", 
+                "count": 4
+            }
+        ]
+}

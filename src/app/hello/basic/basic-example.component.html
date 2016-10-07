@@ -1,0 +1,38 @@
+<div class="overflow-hidden">
+    <h2 class="comp-h2" style="background-color: gray;">
+        <span>Basic UI</span>
+
+    </h2>
+
+    <div class="float-left content-margin content-padding" style="padding:20px;">
+        <form [formGroup]="form1">
+            <dynamic-form-custom-control *ngFor="let controlModel of dynamicFormModel1" class="form-row"
+                                        [controlGroup]="form1"
+                                        [model]="controlModel">
+            </dynamic-form-custom-control>
+        </form>
+
+
+        <form [formGroup]="form2">
+
+            <dynamic-form-custom-control *ngFor="let controlModel of dynamicFormModel2" class="form-row"
+                                        [controlGroup]="form2"
+                                        [model]="controlModel">
+
+                <template *ngIf="controlModel.type === 'ARRAY'" let-index="index">
+                    <button type="button" (click)="remove(index)">Remove Item</button>
+                </template>
+
+            </dynamic-form-custom-control>
+
+            <button type="button" (click)="add()">Add Item</button>
+            <button type="button" (click)="storeForm()">dump</button>
+            <button type="button" (click)="clear()">Remove All</button>
+
+        </form>
+    </div>
+    <textarea readonly>
+        {{form1.value | json}}
+    </textarea>
+
+</div>

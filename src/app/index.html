@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>THB App</title>
+
+  <base href="/">
+
+  <script src="core-js/client/shim.min.js"></script>
+
+  <script src="zone.js/dist/zone.js"></script>
+  <script src="reflect-metadata/Reflect.js"></script>
+  <script src="systemjs/dist/system.src.js"></script>
+   
+  <script src="systemjs.config.js"></script>
+  <script>
+    System.import('app').catch(function(err){ console.error(err); });
+  </script>
+
+  <!-- CSS  -->
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/font-awesome/css/font-awesome.css">
+  <link rel="stylesheet" href="/css/style.css">
+ 
+  <link rel="stylesheet" href="css/thb/thbStyle.css">
+ 
+</head>
+<body style="background-color:#f3f3f4;">
+ 
+  <my-app>Loading...</my-app>
+ 
+
+  <!--  Scripts-->
+  <script src="chart.js/dist/Chart.bundle.js"></script>
+  <script src="/js/jquery-2.1.1.js"></script>
+  <script src="/js/bootstrap.min.js"></script>
+  <!--<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>-->
+  
+  </body>
+</html>
